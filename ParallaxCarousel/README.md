@@ -2,6 +2,8 @@
 
 A React Native carousel component that scales card widths based on their distance from center and applies parallax motion to content within each card.
 
+https://github.com/user-attachments/assets/9e3b00c6-b3f3-4ebd-a485-e5e2ee503aa5
+
 ## Requirements
 
 ```bash
