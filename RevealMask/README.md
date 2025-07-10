@@ -2,6 +2,8 @@
 
 A React Native component that reveals hidden content through a circular mask that follows your finger as you drag across the surface.
 
+https://github.com/user-attachments/assets/9a2bdc97-b132-440b-936c-95fa6899813a
+
 ## Requirements
 
 ```bash
