@@ -12,6 +12,12 @@ A carousel component that scales card widths based on their distance from center
 
 [View →](./ParallaxCarousel)
 
+### RevealMask
+
+A component that reveals hidden content through a circular mask that follows your finger as you drag across the surface.
+
+[View →](./RevealMask)
+
 ## Getting Started
 
 Each component is self-contained and ready to copy into your project. Simply:
