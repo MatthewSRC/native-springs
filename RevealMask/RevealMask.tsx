@@ -56,7 +56,6 @@ export function RevealMask({
   const [isCapturing, setIsCapturing] = useState(false);
   const [canvasReveal, setCanvasReveal] = useState(false);
 
-  const primaryRef = useRef<View>(null);
   const secondaryRef = useRef<View>(null) as React.RefObject<View>;
   const cachedKeys = useRef<unknown[]>(cacheKeys);
 
@@ -151,9 +150,7 @@ export function RevealMask({
   return (
     <GestureDetector gesture={panGesture}>
       <View>
-        <View ref={primaryRef} onLayout={handleLayout}>
-          {primary}
-        </View>
+        <View onLayout={handleLayout}>{primary}</View>
 
         <View
           ref={secondaryRef}
