@@ -2,6 +2,8 @@
 
 A React Native component that creates realistic water ripple effects with wave distortion when users tap on the wrapped content.
 
+https://github.com/user-attachments/assets/fe552e8d-f7ba-4373-96bd-8b40dd4a4af2
+
 ## Requirements
 
 ```bash
