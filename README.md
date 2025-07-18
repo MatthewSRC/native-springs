@@ -18,6 +18,12 @@ A component that reveals hidden content through a circular mask that follows you
 
 [View →](./RevealMask)
 
+### RippleCover
+
+A component that creates realistic water ripple effects with wave distortion when users tap on the wrapped content.
+
+[View →](./RippleCover)
+
 ## Getting Started
 
 Each component is self-contained and ready to copy into your project. Simply:
