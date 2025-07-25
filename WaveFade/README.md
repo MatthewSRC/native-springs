@@ -2,6 +2,8 @@
 
 A React Native component that adds a diagonal reveal and fade transition to its children on mount and unmount.
 
+https://github.com/user-attachments/assets/de367b30-4acf-4655-b7fe-51525700d475
+
 ## Requirements
 
 ```bash
