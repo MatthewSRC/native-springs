@@ -2,6 +2,8 @@
 
 A React Native compound component for creating smooth drag-to-reveal interactions with spring animations and velocity-based gestures.
 
+https://github.com/user-attachments/assets/62f296e4-b655-42f5-b4ba-75db9a136279
+
 ## Requirements
 
 ```bash
