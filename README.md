@@ -6,12 +6,13 @@ A collection of animated React Native components built with Reanimated & Skia. R
 
 ## Components
 
-| ✨ Component                              | 💡 Description                                                |
-| ----------------------------------------- | ------------------------------------------------------------- |
-| 🔄 [ParallaxCarousel](./ParallaxCarousel) | Scales and parallax-shifts cards based on position            |
-| 🎭 [RevealMask](./RevealMask)             | Circular mask that reveals content under user touch           |
-| 🌊 [RippleCover](./RippleCover)           | Adds water-like ripple distortion on interaction              |
-| 🎬 [WaveFade](./WaveFade)                 | Diagonal fade/reveal animation for entry and exit transitions |
+| ✨ Component                              | 💡 Description                                                                 |
+| ----------------------------------------- | ------------------------------------------------------------------------------ |
+| 🔄 [ParallaxCarousel](./ParallaxCarousel) | Scales and parallax-shifts cards based on position                             |
+| 🎭 [RevealMask](./RevealMask)             | Circular mask that reveals content under user touch                            |
+| 🌊 [RippleCover](./RippleCover)           | Adds water-like ripple distortion on interaction                               |
+| 🎬 [WaveFade](./WaveFade)                 | Diagonal fade/reveal animation for entry and exit transitions                  |
+| ↕️ [DragReveal](./DragReveal)             | Drag-to-reveal interactions with spring animations and velocity-based gestures |
 
 ## Getting Started
 
@@ -26,7 +27,7 @@ Each component is self-contained and ready to copy into your project. Simply:
 Most components require:
 
 - `react-native-reanimated` 3.0+
-- Some components may use `@shopify/react-native-skia`
+- Some components may use `@shopify/react-native-skia`, `react-native-gesture-handler`
 
 Specific requirements are listed in each component's README.
 
