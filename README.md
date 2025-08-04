@@ -8,11 +8,12 @@ A collection of animated React Native components built with Reanimated & Skia. R
 
 | ✨ Component                              | 💡 Description                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------ |
-| 🔄 [ParallaxCarousel](./ParallaxCarousel) | Scales and parallax-shifts cards based on position                             |
+| 🎠 [ParallaxCarousel](./ParallaxCarousel) | Scales and parallax-shifts cards based on position                             |
 | 🎭 [RevealMask](./RevealMask)             | Circular mask that reveals content under user touch                            |
 | 🌊 [RippleCover](./RippleCover)           | Adds water-like ripple distortion on interaction                               |
 | 🎬 [WaveFade](./WaveFade)                 | Diagonal fade/reveal animation for entry and exit transitions                  |
 | ↕️ [DragReveal](./DragReveal)             | Drag-to-reveal interactions with spring animations and velocity-based gestures |
+| 🔄 [PullRefresh](./PullRefresh)           | Custom animated pull-to-refresh component with gesture tracking                |
 
 ## Getting Started
 
