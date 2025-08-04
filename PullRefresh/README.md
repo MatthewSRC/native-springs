@@ -2,6 +2,8 @@
 
 A React Native pull-to-refresh component that lets you use and animate a custom refresh component with gesture-driven interactions, progress tracking, and spring physics.
 
+https://github.com/user-attachments/assets/eb996d5e-657a-4c65-9318-2a49fc9a023e
+
 ## Requirements
 
 ```bash
