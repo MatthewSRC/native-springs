@@ -2,6 +2,8 @@
 
 A React Native stack-style carousel component with infinite scrolling and item snaps.
 
+https://github.com/user-attachments/assets/8b685cdf-f9d4-440c-8308-47bcbcdb1d2c
+
 ## Requirements
 
 ```bash
