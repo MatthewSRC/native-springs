@@ -1,6 +1,6 @@
 # Native Springs
 
-A collection of animated React Native components built with Reanimated & Skia. Ready to copy and use.
+A collection of animated React Native components built with Reanimated & Skia
 
 ⭐ **Star this repo to stay updated with new animated components!**
 
@@ -14,6 +14,7 @@ A collection of animated React Native components built with Reanimated & Skia. R
 | 🎬 [WaveFade](./WaveFade)                 | Diagonal fade/reveal animation for entry and exit transitions                  |
 | ↕️ [DragReveal](./DragReveal)             | Drag-to-reveal interactions with spring animations and velocity-based gestures |
 | 🔄 [PullRefresh](./PullRefresh)           | Custom animated pull-to-refresh component with gesture tracking                |
+| 📚 [StackCarousel](./StackCarousel)       | Stack-style carousel with infinite scrolling and snapping animations           |
 
 ## Getting Started
 
@@ -35,6 +36,12 @@ Specific requirements are listed in each component's README.
 ### Contributing
 
 Found a bug, a problem or want to optimize or add a component? Feel free to open an issue or submit a pull request.
+
+### Disclaimer
+
+These components are built as experiments and reference implementations.
+They may not be fully production-ready out of the box and could require adjustments for your specific use cases.
+Think of them as solid starting points, you can enhance performance, add features, or adapt the styling and behavior to fit your app’s needs.
 
 ### License
 
