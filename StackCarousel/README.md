@@ -87,5 +87,13 @@ const styles = StyleSheet.create({
 | `itemCount`     | `number`         | Number of items visible in the stack at once. Default: `4`                           |
 | `baseSpacing`   | `number`         | Vertical spacing between stacked items. Default: `60`                                |
 | `snapsDuration` | `number`         | Duration in milliseconds for snapping animations when scrolling ends. Default: `200` |
+| `scrollEnabled` | `boolean`        | Should scroll be enabled. Default: `true`                                            |
+
+### Ref API
+
+| Prop           | Description              |
+| -------------- | ------------------------ |
+| `goToNext`     | Scroll to next item.     |
+| `goToPrevious` | Scroll to previous item. |
 
 That's it! Copy the component code and start using it. No configuration needed.
