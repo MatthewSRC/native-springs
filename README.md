@@ -15,6 +15,7 @@ A collection of animated React Native components built with Reanimated & Skia
 | ↕️ [DragReveal](./DragReveal)             | Drag-to-reveal interactions with spring animations and velocity-based gestures |
 | 🔄 [PullRefresh](./PullRefresh)           | Custom animated pull-to-refresh component with gesture tracking                |
 | 📚 [StackCarousel](./StackCarousel)       | Stack-style carousel with infinite scrolling and snapping animations           |
+| 📖 [ScrollStoryboard](./ScrollStoryboard) | Scroll-driven, direction-aware entry/exit animations with progress-based hooks |
 
 ## Getting Started
 
@@ -39,9 +40,9 @@ Found a bug, a problem or want to optimize or add a component? Feel free to open
 
 ### Disclaimer
 
-These components are built as experiments and reference implementations.
-They may not be fully production-ready out of the box and could require adjustments for your specific use cases.
-Think of them as solid starting points, you can enhance performance, add features, or adapt the styling and behavior to fit your app’s needs.
+These components are built as experiments and reference implementations.  
+They may not be fully production-ready out of the box and could require adjustments for your specific use cases.  
+Think of them as solid starting points — you can enhance performance, add features, or adapt the styling and behavior to fit your app’s needs.
 
 ### License
 
