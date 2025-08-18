@@ -2,6 +2,8 @@
 
 A React Native component to create **scroll-driven animations** with support for **direction-aware entry/exit animations** and **scroll progress–based effects**.
 
+https://github.com/user-attachments/assets/7d82fddd-2f0e-413a-9beb-c821627445f4
+
 ## Requirements
 
 > None – built in plain React Native + TypeScript.  
