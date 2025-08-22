@@ -2,6 +2,8 @@
 
 A React Native component that enables **pinch-to-zoom** and **pan/drag gestures** on any child view, with support for configurable **movement and scale boundaries**.
 
+https://github.com/user-attachments/assets/f92a64d9-425f-423a-8548-159b0aa7eb7c
+
 ## Requirements
 
 ```
