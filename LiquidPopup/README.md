@@ -2,6 +2,8 @@
 
 A React Native component that creates **smooth liquid morphing animations** between a button and panel using **Skia effects**.
 
+https://github.com/user-attachments/assets/f216225c-e008-47b7-b3da-3d5fd69fe3fa
+
 ## Requirements
 
 ```
