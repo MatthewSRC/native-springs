@@ -6,18 +6,19 @@ A collection of animated React Native components built with Reanimated & Skia
 
 ## Components
 
-| ✨ Component                              | 💡 Description                                                                 |
-| ----------------------------------------- | ------------------------------------------------------------------------------ |
-| 🎠 [ParallaxCarousel](./ParallaxCarousel) | Scales and parallax-shifts cards based on position                             |
-| 🎭 [RevealMask](./RevealMask)             | Circular mask that reveals content under user touch                            |
-| 🌊 [RippleCover](./RippleCover)           | Adds water-like ripple distortion on interaction                               |
-| 🎬 [WaveFade](./WaveFade)                 | Diagonal fade/reveal animation for entry and exit transitions                  |
-| ↕️ [DragReveal](./DragReveal)             | Drag-to-reveal interactions with spring animations and velocity-based gestures |
-| 🔄 [PullRefresh](./PullRefresh)           | Custom animated pull-to-refresh component with gesture tracking                |
-| 📚 [StackCarousel](./StackCarousel)       | Stack-style carousel with infinite scrolling and snapping animations           |
-| 📖 [ScrollStoryboard](./ScrollStoryboard) | Scroll-driven, direction-aware entry/exit animations with progress-based hooks |
-| 🔍 [ZoomCover](./ZoomCover)               | Pinch-to-zoom and pan gestures with configurable movement and scale boundaries |
-| 🌊 [LiquidPopup](./LiquidPopup)           | Smooth liquid morphing animations between button and panel                     |
+| ✨ Component                              | 💡 Description                                                                    |
+| ----------------------------------------- | --------------------------------------------------------------------------------- |
+| 🎠 [ParallaxCarousel](./ParallaxCarousel) | Scales and parallax-shifts cards based on position                                |
+| 🎭 [RevealMask](./RevealMask)             | Circular mask that reveals content under user touch                               |
+| 🌊 [RippleCover](./RippleCover)           | Adds water-like ripple distortion on interaction                                  |
+| 🎬 [WaveFade](./WaveFade)                 | Diagonal fade/reveal animation for entry and exit transitions                     |
+| ↕️ [DragReveal](./DragReveal)             | Drag-to-reveal interactions with spring animations and velocity-based gestures    |
+| 🔄 [PullRefresh](./PullRefresh)           | Custom animated pull-to-refresh component with gesture tracking                   |
+| 📚 [StackCarousel](./StackCarousel)       | Stack-style carousel with infinite scrolling and snapping animations              |
+| 📖 [ScrollStoryboard](./ScrollStoryboard) | Scroll-driven, direction-aware entry/exit animations with progress-based hooks    |
+| 🔍 [ZoomCover](./ZoomCover)               | Pinch-to-zoom and pan gestures with configurable movement and scale boundaries    |
+| 🌊 [LiquidPopup](./LiquidPopup)           | Smooth liquid morphing animations between button and panel                        |
+| 🍎 [ThermalApple](./ThermalApple)         | Interactive thermal imaging effect with heat trails and flowing border animations |
 
 ## Getting Started
 
