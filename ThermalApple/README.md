@@ -4,6 +4,8 @@ A React Native component that recreates Apple's thermal imaging effect with **in
 
 _Original concept and credits to [samhenrigold/apple-event-shader](https://github.com/samhenrigold/apple-event-shader/tree/main). This React Native implementation recreates the effect using Skia shaders, Reanimated, and Gesture Handler, heavily based on the original shader methods._
 
+https://github.com/user-attachments/assets/35e425a9-0d12-4af1-833a-65076712e84d
+
 ## Requirements
 
 ```bash
