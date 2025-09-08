@@ -4,8 +4,6 @@ A React Native component that recreates Apple's thermal imaging effect with **in
 
 _Original concept and credits to [samhenrigold/apple-event-shader](https://github.com/samhenrigold/apple-event-shader/tree/main). This React Native implementation recreates the effect using Skia shaders, Reanimated, and Gesture Handler, heavily based on the original shader methods._
 
-https://github.com/user-attachments/assets/35e425a9-0d12-4af1-833a-65076712e84d
-
 ## Two Versions Available
 
 This package includes two thermal effect variants:
@@ -14,9 +12,13 @@ This package includes two thermal effect variants:
 
 The main component with **procedurally generated flowing thermal borders** and background thermal noise patterns.
 
+https://github.com/user-attachments/assets/35e425a9-0d12-4af1-833a-65076712e84d
+
 ### 2. **ThermalAppleVideoMask** (Video-Based)
 
 An alternative version that uses **video texture mapping** to match the apple's event version.
+
+https://github.com/user-attachments/assets/9da38429-6d00-4ff2-95e6-5c2708a426a7
 
 ---
 
