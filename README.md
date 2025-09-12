@@ -17,8 +17,9 @@ A collection of animated React Native components built with Reanimated & Skia
 | 📚 [StackCarousel](./StackCarousel)       | Stack-style carousel with infinite scrolling and snapping animations              |
 | 📖 [ScrollStoryboard](./ScrollStoryboard) | Scroll-driven, direction-aware entry/exit animations with progress-based hooks    |
 | 🔍 [ZoomCover](./ZoomCover)               | Pinch-to-zoom and pan gestures with configurable movement and scale boundaries    |
-| 🌊 [LiquidPopup](./LiquidPopup)           | Smooth liquid morphing animations between button and panel                        |
+| 🫗 [LiquidPopup](./LiquidPopup)            | Smooth liquid morphing animations between button and panel                        |
 | 🍎 [ThermalApple](./ThermalApple)         | Interactive thermal imaging effect with heat trails and flowing border animations |
+| 🎞️ [CardReel](./CardReel)                 | Vertically scrollable card reel with dynamic scaling and opacity animations       |
 
 ## Getting Started
 
