@@ -2,6 +2,8 @@
 
 A React Native component that creates a **scrollable card reel** with animated scaling and opacity effects. Cards dynamically scale and fade as they enter and leave the viewport.
 
+https://github.com/user-attachments/assets/162bd95d-fb9e-407f-a69a-be07d5eebdaf
+
 ## Requirements
 
 ```
