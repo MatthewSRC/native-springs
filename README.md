@@ -20,6 +20,7 @@ A collection of animated React Native components built with Reanimated & Skia
 | 🫗 [LiquidPopup](./LiquidPopup)            | Smooth liquid morphing animations between button and panel                        |
 | 🍎 [ThermalApple](./ThermalApple)         | Interactive thermal imaging effect with heat trails and flowing border animations |
 | 🎞️ [CardReel](./CardReel)                 | Vertically scrollable card reel with dynamic scaling and opacity animations       |
+| 🔪 [ParallaxSlices](./ParallaxSlices)     | Transforms children with automatic content segmentation for parallax effect       |
 
 ## Getting Started
 
