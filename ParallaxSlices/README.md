@@ -2,6 +2,8 @@
 
 A React Native component that creates a **horizontal parallax scrolling effect** by automatically dividing content into segments with customizable spacing.
 
+https://github.com/user-attachments/assets/091a6c94-4630-47aa-bb96-a01737ed61d3
+
 ## Requirements
 
 ```
