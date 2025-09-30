@@ -2,6 +2,10 @@
 
 A React Native component that provides a **slide-to-confirm** interaction with customizable slider and container components.
 
+
+https://github.com/user-attachments/assets/714b051a-c15e-4155-ae9b-d555bc15c81b
+
+
 ## Requirements
 
 ```
