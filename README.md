@@ -21,6 +21,8 @@ A collection of animated React Native components built with Reanimated & Skia
 | 🍎 [ThermalApple](./ThermalApple)         | Interactive thermal imaging effect with heat trails and flowing border animations |
 | 🎞️ [CardReel](./CardReel)                 | Vertically scrollable card reel with dynamic scaling and opacity animations       |
 | 🔪 [ParallaxSlices](./ParallaxSlices)     | Transforms children with automatic content segmentation for parallax effect       |
+| 👆 [ActionSlider](./ActionSlider)         | Swipe-to-confirm slider with snap-back animations and progress tracking           |
+| ✍️ [WaveText](./WaveText)                 | Cascading color wave animation across individual text characters                  |
 
 ## Getting Started
 
