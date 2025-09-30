@@ -2,6 +2,10 @@
 
 A React Native component that creates **animated wave effects** on text, with each character transitioning between colors in a cascading pattern.
 
+
+https://github.com/user-attachments/assets/1bb73986-11b6-4250-a7ee-9369ad49e831
+
+
 ## Requirements
 
 ```
